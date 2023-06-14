@@ -13,7 +13,7 @@ https://antybiotykoterapiawpraktyce.pl
 
 #Took part in it
 
-https://app.commi.pro/auth (Angular based, developed some subpages, worked with REST API)
+https://app.commi.pro (Angular based, developed some subpages, worked with REST API)
 
 https://panel.elo.city (Angular based, developed some subpages, worked with REST API)
 
@@ -35,7 +35,7 @@ https://stellarisdemocalendar.com
 
 https://akademiabauschlomb.pl
 
-https://www.e-neonatologiachiesi.pl/panel
+https://www.e-neonatologiachiesi.pl
 
 
 
