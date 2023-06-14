@@ -5,21 +5,25 @@ Repository contains only README with URLs of my "commercial portfolio"
 
 https://www.programedukacjionkologicznej.pl
 
-https://www.poz365.pl
+https://www.poz365.pl (CMS based site, developed this CMS)
 
-https://commi.pro
+https://commi.pro (CMS based site, developed this CMS)
 
 https://antybiotykoterapiawpraktyce.pl
 
 #Took part in it
 
-https://panel.elo.city
+https://app.commi.pro/auth (Angular based, developed some subpages, worked with REST API)
 
-https://naladowani.tv
+https://panel.elo.city (Angular based, developed some subpages, worked with REST API)
 
 https://parking.elo.city
 
+https://naladowani.tv 
+
 https://mapa.elo.city
+
+https://highp.me (CMS based, took part in develop of this CMS)
 
 https://www.zentiva.pl
 
@@ -27,13 +31,11 @@ https://www.zentivadlaaptek.pl
 
 https://www.zentivadlalekarzy.pl
 
-https://highp.me
-
 https://stellarisdemocalendar.com
 
 http://akademiabauschlomb.pl
 
 https://www.e-neonatologiachiesi.pl/panel
 
-https://app.commi.pro/auth
+
 
