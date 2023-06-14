@@ -1,2 +1,13 @@
 # Commercial-experience
-Repo zawierające tylko plik read me z linkami o stronach które robiłem, lub brałem udział przy ich tworzeniu/poprawkach
+Repository contains only README with URLs and descriptions of my "commercial portfolio"
+
+#Developed fully 
+
+https://www.programedukacjionkologicznej.pl
+
+https://www.poz365.pl
+
+
+
+
+#Took part in it
