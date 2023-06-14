@@ -33,7 +33,7 @@ https://www.zentivadlalekarzy.pl
 
 https://stellarisdemocalendar.com
 
-http://akademiabauschlomb.pl
+https://akademiabauschlomb.pl
 
 https://www.e-neonatologiachiesi.pl/panel
 
